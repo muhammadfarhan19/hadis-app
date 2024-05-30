@@ -1,6 +1,6 @@
 # Hadis App
 
-Welcome to the Hadis App! This project is developed using Next.js 14 and Tailwind CSS. You can explore the live version of the app [here](https://hadis-app.vercel.app/).
+Welcome to the Hadis App! This project is developed using `Typescript`, `Next.js 14`, and `Tailwind CSS`. You can explore the live version of the app [here](https://hadis-app.vercel.app/).
 
 ## Table of Contents
 - [Installation](#installation)
