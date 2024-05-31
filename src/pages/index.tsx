@@ -19,7 +19,7 @@ const Home: React.FC<HomeProps> = ({ rawi }) => {
   };
 
   return (
-    <main className="p-10 lg:p-52 w-full h-screen flex flex-col space-y-20 justify-center items-center">
+    <main className="p-10 sm:p-14 md:p-24 lg:p-40 w-full h-screen flex flex-col space-y-20 justify-center items-center">
       <h1 className="font-semibold text-2xl">
         Cari Hadist Berdasarkan Periwayat:
       </h1>
