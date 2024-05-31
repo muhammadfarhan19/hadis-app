@@ -59,7 +59,7 @@ const ImamPage: React.FC<ImamPageProps> = ({ dataHadis, page, start, end }) => {
         <IoMdArrowRoundBack />
         <span className="text-xl font-semibold cursor-pointer">Kembali</span>
       </h1>
-      <div className="flex justify-between items-center">
+      <div className="flex flex-col md:flex-row gap-y-5 justify-between items-end md:items-center">
         <h1 className="font-semibold text-2xl">
           Kumpulan Hadis <span className="font-bold">{dataHadis.name}</span>
         </h1>
